@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/walldiv/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^3.0.2"
+    "ip-cidr": "^2.1.5"
   }
 }
